@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDemo", "EnumDemo\EnumDemo.csproj", "{E2738D78-BB4A-4C94-AE00-9AFA7CD0A01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeDemo", "TimeDemo\TimeDemo.csproj", "{B83F77C2-1684-45B5-AE09-696E990252C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2738D78-BB4A-4C94-AE00-9AFA7CD0A01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2738D78-BB4A-4C94-AE00-9AFA7CD0A01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2738D78-BB4A-4C94-AE00-9AFA7CD0A01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2738D78-BB4A-4C94-AE00-9AFA7CD0A01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83F77C2-1684-45B5-AE09-696E990252C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83F77C2-1684-45B5-AE09-696E990252C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83F77C2-1684-45B5-AE09-696E990252C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83F77C2-1684-45B5-AE09-696E990252C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B51578F7-4898-4549-9BD2-5B9A507A2B82}
+	EndGlobalSection
+EndGlobal
